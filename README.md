@@ -106,7 +106,7 @@ Internet Information Services -> Web Management Tools -> IIS Management Console
 - Create a database called “osTicket”
 
 ![image](https://github.com/michaelpeters2/osticket-prereqs/assets/141062110/d532500e-15a1-4a10-ad4e-9a2dce5960af)
-Continue Setting up osticket in the browser
+- Continue Setting up osticket in the browser
 - MySQL Database: osTicket
 - MySQL Username: root
 - MySQL Password: Password1
