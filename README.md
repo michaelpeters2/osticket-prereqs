@@ -39,7 +39,9 @@ World Wide Web Services -> Application Development Features ->
 AND IIS Management Console
 Internet Information Services -> Web Management Tools -> IIS Management Console
 	[X] IIS Management Console
+
 ![image](https://github.com/michaelpeters2/osticket-prereqs/assets/141062110/54a4f406-c1cc-4d4f-8ec4-1315608abd61)
+
 - Confirm installation was successful by going to your web browser and searching 127.0.0.1, and you should see the Windows Internet Information Services page appear.
 - If unsucessful, uninstall and reinstall.
 
