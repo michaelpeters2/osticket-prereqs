@@ -113,10 +113,15 @@ Internet Information Services -> Web Management Tools -> IIS Management Console
 - MySQL Username: root
 - MySQL Password: Password1
 - Click “Install Now!”
-![image](https://github.com/michaelpeters2/osticket-prereqs/assets/141062110/faf74130-b3f5-4fe6-9c4f-f21758f65145)
 
+
+![image](https://github.com/michaelpeters2/osticket-prereqs/assets/141062110/faf74130-b3f5-4fe6-9c4f-f21758f65145)
 
 - Clean Up!
 - Delete: C:\inetpub\wwwroot\osTicket\setup
 - Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 ![image](https://github.com/michaelpeters2/osticket-prereqs/assets/141062110/77bab00b-0e78-4eb6-80cb-38bf0d71f433)
+
+Notes:
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
+End Users osTicket URL: http://localhost/osTicket/
