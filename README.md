@@ -101,6 +101,8 @@ Internet Information Services -> Web Management Tools -> IIS Management Console
 - Default email (receives email from customers)
 
 ![image](https://github.com/michaelpeters2/osticket-prereqs/assets/141062110/659c5916-b3aa-4a0a-9afe-2c45fc7bfbf5)
+
+Create Your Database
 - Download and install HeidiSQL
 - Open Heidi SQL
 - Create a new session, root/Password1
