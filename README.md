@@ -18,6 +18,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
+- Links if needed for some downloads: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+
+
 - Install and enable IIS (Internet Information Services) with CGI and common HTTP features.
 - Download and install PHP Manager for IIS, the Rewrite Module, and create the directory C:\PHP. Download the PHP zip and extract into C:\PHP.
 - Download and install C++ Redistributable
